@@ -23,7 +23,7 @@ TMPDIR=/tmp
 ARCH=$(uname -m)
 
 BLAST_URL_ROOT="ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/"
-BLAST_PACKAGE="ncbi-blast-2.2.29+-1.${ARCH}.rpm"
+BLAST_PACKAGE="ncbi-blast-2.2.30+-3.${ARCH}.rpm"
 
 GLIMMERHMM_REPO="git://github.com/kblin/glimmerhmm.git"
 
